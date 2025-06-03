@@ -1,1 +1,3 @@
-[package.json](https://github.com/user-attachments/files/20561082/package.json)
+# Viralbot AI
+
+Proyecto básico creado para despliegue exitoso en Vercel.
